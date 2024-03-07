@@ -37,6 +37,8 @@ for group, condition in age_groups.items():
 ### Output:
 ![alt text](image-1.png)
 
+
+
 ### Visualization:
 ```python
 # Create a list to store counts of visitors in each age group
